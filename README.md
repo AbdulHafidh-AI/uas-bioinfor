@@ -24,17 +24,17 @@ Pada bagian ini, kami menempailkan berbagai macam informasi genetik dari virus C
   -> Adenine (A), berjumlah 14.367.759 (empat belas juta tiga ratus enam puluh tujuh ribu tujuh ratus lima puluh sembilan)      
   -> Thymine (T), berjumlah 17.496.106 (tujuh belas juta empat ratus sembilan puluh enam ribu seratus enam)      
   -> Guanine (G), berjumlah 11.046.422 (sebelas juta empat puluh enam ribu empat ratus dua puluh dua)     
-  -> Cytosine (C), berjumlah 343 (tiga ratus empat puluh tiga)  
+  -> Cytosine (C), berjumlah 343 (tiga ratus empat puluh tiga)      
 Setelah diperoleh jumlah karakter dari setiap karakter basa ATGC. Maka, selanjutnya adalah kami menvisualisasikannya dengan menggunakan barchart.
 Dan diperoleh kesimpulan bahwa karakter basa Thymine (T) memiliki jumlah karakter terbanyak dan diikuti oleh karakter basa Adenine (A), Guanine (G), dan Cytosine (C).
 
-Adapun karakter yang terdapat pada nukleotida DNA adalah AGTCKN, dengan jumlah setiap karakter adalah sebagai berikut:
-  -> T : 11.034 (sebelas ribu tiga puluh empat)
-  -> G : 6.765 (enam ribu tujuh ratus enam puluh lima)
-  -> A : 8.490 (delapan ribu empat ratus sembilan puluh)
-  -> C : 4.734 (empat ribu tujuh ratus tiga puluh empat)
-  -> K : 2 (dua)
-  -> N : 1 (satu)
+Adapun karakter yang terdapat pada nukleotida DNA adalah AGTCKN, dengan jumlah setiap karakter adalah sebagai berikut:      
+  -> T : 11.034 (sebelas ribu tiga puluh empat)     
+  -> G : 6.765 (enam ribu tujuh ratus enam puluh lima)      
+  -> A : 8.490 (delapan ribu empat ratus sembilan puluh)      
+  -> C : 4.734 (empat ribu tujuh ratus tiga puluh empat)      
+  -> K : 2 (dua)    
+  -> N : 1 (satu)   
 Dari jumlah setiap karakter yang terdapat pada nukleotida DNA maka diperoleh hasil bahwa karakter T memiliki frekuensi terbanyak diikuti dengan karakter A, G, C, K, dan N.
 
 # Transkripsi
