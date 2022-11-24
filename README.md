@@ -37,12 +37,38 @@ Adapun karakter yang terdapat pada nukleotida DNA adalah AGTCKN, dengan jumlah s
   -> N : 1 (satu)   
 Dari jumlah setiap karakter yang terdapat pada nukleotida DNA maka diperoleh hasil bahwa karakter T memiliki frekuensi terbanyak diikuti dengan karakter A, G, C, K, dan N.
 
+<h2 align="center">
+  <img src="./img/info.png" alt="info" width="600px" />
+  <br>
+</h2>
+
 # Transkripsi
 transkripsi adalah pembuatan RNA terutama mRNA dengan menyalin sebagian berkas DNA oleh enzim RNA polimerase. Proses transkripsi menghasilkan mRNA dari DNA di dalam sel yang menjadi langkah awal sintesis protein. Transkripsi merupakan bagian dari rangkaian ekspresi genetik.
 
 Proses yang kami lakukan selanjutnya adalah melakukan transkripsi pada data genetik corona virus dengan menampilkan sequence DNA dan RNA.
 
+<h2 align="center">
+  <img src="./img/transkripsi.png" alt="transkripsi" width="600px" />
+  <br>
+</h2>
+
 # Translasi
 Setelah dilakukannya transkripsi kami melakukan proses translasi, yaitu proses penerjemahan urutan nukleotida yang ada pada molekul mRNA menjadi rangkaian asam-asam amino yang menyusun suatu polipeptida atau protein.
 
 Pada proses translasi kami menampilkan asam amino yang terdapat pada virus corona dan hasilnya terdapat 10.342 (sepuluh ribu tiga ratus empat puluh dua) asam amino. Selain itu, kami juga memiliki 295 (dua ratus sembilan puluh lima) dan Kami memiliki 16 (enam belas) protein dengan lebih dari 50 (lima puluh) asam amino dalam genom
+
+<h2 align="center">
+  <img src="./img/recap_3.png" alt="recap_3" width="600px" />
+  <br>
+</h2>
+
+# Frames
+
+ reading frames atau membaca kerangak adalah  cara membagi urutan nukleotida dalam molekul asam nukleat (DNA atau RNA) menjadi serangkaian triplet yang berurutan dan tidak tumpang tindih. Dimana kembar tiga ini sama dengan asam amino atau menghentikan sinyal selama translasi, mereka disebut kodon.
+
+ Open reading frame (ORF) adalah reading frames yang berpotensi untuk mentranskripsikan menjadi RNA dan diterjemahkan menjadi protein. Dalam hal ini membutuhkan urutan DNA yang berkelanjutan dari kodon awal melalui wilayah berikutnya yang biasanya memiliki panjang yang merupakan kelipatan dari 3 nukleotida, ke kodon stop dalam kerangka pembacaan yang sama.
+
+<h2 align="center">
+  <img src="./img/frame.png" alt="frame" width="600px" />
+  <br>
+</h2>
