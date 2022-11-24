@@ -19,22 +19,21 @@ Infeksi virus Corona yang disebut COVID-19 (Corona Virus Disease 2019) pertama 
 
 Virus dapat menyebar dari mulut atau hidung orang yang terinfeksi melalui partikel cairan kecil ketika orang tersebut batuk, bersin, berbicara, bernyanyi, atau bernapas. Partikel ini dapat berupa droplet yang lebih besar dari saluran pernapasan hingga aerosol yang lebih kecil.
 
-# Seseorang dapat tertular COVID-19 melalui berbagai cara, yaitu:     
-  -> Tidak sengaja menghirup percikan ludah (droplet) yang keluar saat penderita COVID-19 batuk atau bersin     
-  -> Memegang mulut atau hidung tanpa mencuci tangan terlebih dahulu setelah menyentuh benda yang terkena droplet penderita COVID-19, misalnya uang, gagang pintu, atau permukaan meja    
-  -> Melakukan kontak jarak dekat dengan penderita COVID-19   
+# Informasi Genetik
+Pada bagian ini, kami menempailkan berbagai macam informasi genetik dari virus COVID-19 seperti panjang sequence dari virus tersebut dan hasilnya adalah ada 52.763.761 (lima puluh dua juta tujuh ratus enam puluh tiga ribu tujuh ratus enam puluh satu) panjang sequencenya. Kemudian, kami simpan data yang telah diperoleh. Setelah itu, kami menampilkan jumlah karakter basa nukleotida ATGC dari virus corona yaitu:      
+  -> Adenine (A), berjumlah 441 (empat ratus empat puluh satu)      
+  -> Thymine (T), berjumlah 320 (tiga ratus dua puluh)      
+  -> Guanine (G), berjumlah 307 (tiga ratus tujuh)     
+  -> Cytosine (C), berjumlah 343 (tiga ratus empat puluh tiga)  
+Setelah diperoleh jumlah karakter dari setiap karakter basa ATGC. Maka, selanjutnya adalah kami menvisualisasikannya dengan menggunakan barchart.
+Dan diperoleh kesimpulan bahwa karakter basa A memiliki jumlah karakter terbanyak dan diikuti oleh karakter basa C, T, dan G.
 
+# Transkripsi
+transkripsi adalah pembuatan RNA terutama mRNA dengan menyalin sebagian berkas DNA oleh enzim RNA polimerase. Proses transkripsi menghasilkan mRNA dari DNA di dalam sel yang menjadi langkah awal sintesis protein. Transkripsi merupakan bagian dari rangkaian ekspresi genetik.
 
-# Gejala yang paling umum:    
-  -> demam    
-  -> batuk    
-  -> kelelahan    
-  -> kehilangan rasa atau bau   
+Proses yang kami lakukan selanjutnya adalah melakukan transkripsi pada data genetik corona virus.
 
-# Gejala yang sedikit tidak umum:   
-  -> sakit tenggorokan    
-  -> sakit kepala   
-  -> sakit dan nyeri    
-  -> diare    
-  -> ruam pada kulit, atau perubahan warna pada jari tangan atau jari kaki
-  -> mata merah atau iritasi
+# Translasi
+Setelah dilakukannya transkripsi kami melakukan proses translasi, yaitu proses penerjemahan urutan nukleotida yang ada pada molekul mRNA menjadi rangkaian asam-asam amino yang menyusun suatu polipeptida atau protein.
+
+Pada proses translasi kami menampilkan asam amino yang terdapat pada virus corona. Hasilnya adalah virus corona memiliki 470 asam amino dengan 38 cabang asam amino.
