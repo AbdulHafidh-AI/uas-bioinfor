@@ -69,6 +69,6 @@ Pada proses translasi kami menampilkan asam amino yang terdapat pada virus coron
  Open reading frame (ORF) adalah reading frames yang berpotensi untuk mentranskripsikan menjadi RNA dan diterjemahkan menjadi protein. Dalam hal ini membutuhkan urutan DNA yang berkelanjutan dari kodon awal melalui wilayah berikutnya yang biasanya memiliki panjang yang merupakan kelipatan dari 3 nukleotida, ke kodon stop dalam kerangka pembacaan yang sama.
 
 <h2 align="center">
-  <img src="./img/frame.png" alt="frame" width="600px" />
+  <img src="./img/frames.png" alt="frame" width="600px" />
   <br>
 </h2>
